@@ -1,0 +1,11 @@
+E:\LearningProjects\RoomReservationProject\RoomReservationProject.Core\bin\Debug\net5.0\RoomReservationProject.Core.deps.json
+E:\LearningProjects\RoomReservationProject\RoomReservationProject.Core\bin\Debug\net5.0\RoomReservationProject.Core.dll
+E:\LearningProjects\RoomReservationProject\RoomReservationProject.Core\bin\Debug\net5.0\ref\RoomReservationProject.Core.dll
+E:\LearningProjects\RoomReservationProject\RoomReservationProject.Core\bin\Debug\net5.0\RoomReservationProject.Core.pdb
+E:\LearningProjects\RoomReservationProject\RoomReservationProject.Core\obj\Debug\net5.0\RoomReservationProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearningProjects\RoomReservationProject\RoomReservationProject.Core\obj\Debug\net5.0\RoomReservationProject.Core.AssemblyInfoInputs.cache
+E:\LearningProjects\RoomReservationProject\RoomReservationProject.Core\obj\Debug\net5.0\RoomReservationProject.Core.AssemblyInfo.cs
+E:\LearningProjects\RoomReservationProject\RoomReservationProject.Core\obj\Debug\net5.0\RoomReservationProject.Core.csproj.CoreCompileInputs.cache
+E:\LearningProjects\RoomReservationProject\RoomReservationProject.Core\obj\Debug\net5.0\RoomReservationProject.Core.dll
+E:\LearningProjects\RoomReservationProject\RoomReservationProject.Core\obj\Debug\net5.0\ref\RoomReservationProject.Core.dll
+E:\LearningProjects\RoomReservationProject\RoomReservationProject.Core\obj\Debug\net5.0\RoomReservationProject.Core.pdb

@@ -27,7 +27,9 @@ namespace RoomReservationProject.Data
         public DbSet<User> Users { get; set; }
         //Reservation
         public DbSet<Reservation> Reservations { get; set; }
-        
+
+        public DbSet<PaymentHistory> PaymentHistories { get; set; }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
            modelBuilder.ApplyConfiguration(new CustomerConfiguration());

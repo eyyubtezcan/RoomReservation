@@ -9,3 +9,4 @@ E:\LearningProjects\RoomReservationProject\RoomReservationProject.Domain\obj\Deb
 E:\LearningProjects\RoomReservationProject\RoomReservationProject.Domain\obj\Debug\net5.0\RoomReservationProject.Domain.dll
 E:\LearningProjects\RoomReservationProject\RoomReservationProject.Domain\obj\Debug\net5.0\ref\RoomReservationProject.Domain.dll
 E:\LearningProjects\RoomReservationProject\RoomReservationProject.Domain\obj\Debug\net5.0\RoomReservationProject.Domain.pdb
+E:\LearningProjects\RoomReservationProject\RoomReservationProject.Domain\obj\Debug\net5.0\RoomReservationProject.Domain.csprojAssemblyReference.cache
